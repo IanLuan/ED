@@ -502,5 +502,4 @@ int main(int argc, char *argv[])
 	output.close();
 	
 	return 0;
-	return 0;
 }
