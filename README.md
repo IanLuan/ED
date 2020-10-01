@@ -14,3 +14,6 @@ Structures used:
 * Heap
 * Priority queue
 * Disjoint-set
+
+
+<img src="https://imgur.com/QnGKNXy.jpeg" width="10%"><img src="https://imgur.com/rW4tnAx.jpeg" width="10%">  
